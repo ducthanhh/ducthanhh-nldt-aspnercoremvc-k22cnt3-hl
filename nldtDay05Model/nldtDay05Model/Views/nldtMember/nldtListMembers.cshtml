@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "danh sach thành viên";
+    // Chuyen doi kieu
+    var nldtMember = @ViewBag.nldtMember as nldtDay05Model.Models.nldtMember;
+    var stt = 1;
+}
+
+<h1>@ViewData["Title"]</h1>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>MemberId</th>
+            <th>Full Name</th>
+            <th>User Name</th>
+            <th>Password</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var member in Model)
+        {
+            <tr>
+                <td>@member.nldtMemberId</td>
+                <td>@member.nldtMemberFullNameName</td>
+                <td>@member.nldtMemberUserName</td>
+                <td>@member.nldtMemberPassword</td>
+                <td>@member.nldtMemberEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

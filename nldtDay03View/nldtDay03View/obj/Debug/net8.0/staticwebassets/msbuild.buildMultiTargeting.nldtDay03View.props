@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nldtDay03View.props" />
+</Project>

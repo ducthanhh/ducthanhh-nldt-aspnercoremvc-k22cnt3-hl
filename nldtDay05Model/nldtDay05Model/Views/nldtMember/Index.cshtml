@@ -1,0 +1,59 @@
+﻿@model IEnumerable<nldtDay05Model.Models.nldtMember>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="nldtCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nldtMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nldtMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nldtMemberFullNameName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nldtMemberPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nldtMemberEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nldtMemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nldtMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nldtMemberFullNameName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nldtMemberPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nldtMemberEmail)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

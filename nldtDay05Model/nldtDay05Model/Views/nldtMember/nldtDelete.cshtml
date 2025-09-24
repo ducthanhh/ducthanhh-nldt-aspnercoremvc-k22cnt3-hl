@@ -1,0 +1,50 @@
+﻿@model nldtDay05Model.Models.nldtMember
+
+@{
+    ViewData["Title"] = "nldtDelete";
+}
+
+<h1>nldtDelete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>nldtMember</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nldtMemberId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nldtMemberId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nldtMemberUserName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nldtMemberUserName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nldtMemberFullNameName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nldtMemberFullNameName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nldtMemberPassword)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nldtMemberPassword)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nldtMemberEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nldtMemberEmail)
+        </dd>
+    </dl>
+    
+    <form asp-action="nldtDelete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

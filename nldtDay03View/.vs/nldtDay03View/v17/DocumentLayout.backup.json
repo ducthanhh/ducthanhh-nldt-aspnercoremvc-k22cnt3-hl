@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET core\\nldtDay03View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\models\\viewcompoments\\nldtdemocompoments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\models\\viewcompoments\\nldtdemocompoments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\shared\\_nldtleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\shared\\_nldtleft.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\shared\\_nldtfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\shared\\_nldtfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\shared\\_nldtnarbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\shared\\_nldtnarbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\nldthome\\nldtviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\nldthome\\nldtviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\nldthome\\nldtviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\nldthome\\nldtviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\views\\nldthome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\views\\nldthome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|d:\\asp.net core\\nldtday03view\\nldtday03view\\controllers\\nldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B76143-2C41-4EAF-A5B5-A2E1F84B4148}|nldtDay03View\\nldtDay03View.csproj|solutionrelative:nldtday03view\\controllers\\nldthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "nldtDay03View\\Models\\Category.cs",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Models\\Category.cs",
+              "RelativeToolTip": "nldtDay03View\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:48:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NldtDemoCompoments.cs",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Models\\ViewCompoments\\NldtDemoCompoments.cs",
+              "RelativeDocumentMoniker": "nldtDay03View\\Models\\ViewCompoments\\NldtDemoCompoments.cs",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Models\\ViewCompoments\\NldtDemoCompoments.cs",
+              "RelativeToolTip": "nldtDay03View\\Models\\ViewCompoments\\NldtDemoCompoments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:44:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_NldtLeft.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_NldtLeft.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\Shared\\_NldtLeft.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_NldtLeft.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\Shared\\_NldtLeft.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:31:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_NldtFooter.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_NldtFooter.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\Shared\\_NldtFooter.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_NldtFooter.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\Shared\\_NldtFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:28:06.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_NldtNarBar.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_NldtNarBar.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\Shared\\_NldtNarBar.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_NldtNarBar.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\Shared\\_NldtNarBar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T07:37:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\NldtHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\NldtHome\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\NldtHome\\Index.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\NldtHome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T07:25:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NldtViewLoop.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\NldtHome\\NldtViewLoop.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\NldtHome\\NldtViewLoop.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\NldtHome\\NldtViewLoop.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\NldtHome\\NldtViewLoop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T07:20:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NldtViewIf.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\NldtHome\\NldtViewIf.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\NldtHome\\NldtViewIf.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\NldtHome\\NldtViewIf.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\NldtHome\\NldtViewIf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T07:14:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nldtDay03View\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nldtDay03View\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T07:10:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NldtHomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Controllers\\NldtHomeController.cs",
+              "RelativeDocumentMoniker": "nldtDay03View\\Controllers\\NldtHomeController.cs",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay03View\\nldtDay03View\\Controllers\\NldtHomeController.cs",
+              "RelativeToolTip": "nldtDay03View\\Controllers\\NldtHomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:01:15.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

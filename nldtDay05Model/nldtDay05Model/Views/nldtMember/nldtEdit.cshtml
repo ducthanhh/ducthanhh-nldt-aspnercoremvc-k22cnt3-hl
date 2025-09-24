@@ -1,0 +1,50 @@
+﻿@model nldtDay05Model.Models.nldtMember
+
+@{
+    ViewData["Title"] = "nldtEdit";
+}
+
+<h1>nldtEdit</h1>
+
+<h4>nldtMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="nldtEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nldtMemberId" class="control-label"></label>
+                <input asp-for="nldtMemberId" class="form-control" />
+                <span asp-validation-for="nldtMemberId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nldtMemberUserName" class="control-label"></label>
+                <input asp-for="nldtMemberUserName" class="form-control" />
+                <span asp-validation-for="nldtMemberUserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nldtMemberFullNameName" class="control-label"></label>
+                <input asp-for="nldtMemberFullNameName" class="form-control" />
+                <span asp-validation-for="nldtMemberFullNameName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nldtMemberPassword" class="control-label"></label>
+                <input asp-for="nldtMemberPassword" class="form-control" />
+                <span asp-validation-for="nldtMemberPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nldtMemberEmail" class="control-label"></label>
+                <input asp-for="nldtMemberEmail" class="form-control" />
+                <span asp-validation-for="nldtMemberEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
