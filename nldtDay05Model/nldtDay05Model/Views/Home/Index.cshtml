@@ -1,8 +1,143 @@
 ﻿@{
-    ViewData["Title"] = "thong tin thanh vien";
+    ViewData["Title"] = "Trang chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<style>
+    /* Hero section */
+    .hero {
+        background: linear-gradient(135deg, #1e90ff, #00bfff);
+        color: white;
+        padding: 100px 20px;
+        text-align: center;
+        border-radius: 15px;
+        margin-bottom: 40px;
+    }
+
+    .hero h1 {
+        font-size: 3rem;
+        font-weight: bold;
+    }
+
+    .hero p {
+        font-size: 1.3rem;
+        margin: 15px 0 30px;
+    }
+
+    .btn-hero {
+        background-color: #fff;
+        color: #1e90ff;
+        border-radius: 30px;
+        padding: 12px 30px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+    .btn-hero:hover {
+        background-color: #4682b4;
+        color: #fff;
+    }
+
+    /* Features section */
+    .features {
+        margin: 50px 0;
+    }
+
+    .feature-card {
+        border: none;
+        border-radius: 15px;
+        padding: 25px;
+        text-align: center;
+        transition: transform 0.2s ease-in-out;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        background: #ffffff;
+    }
+
+    .feature-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .feature-card i {
+        font-size: 40px;
+        color: #1e90ff;
+        margin-bottom: 15px;
+    }
+
+    .feature-card h5 {
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    /* CTA section */
+    .cta {
+        background: #1e90ff;
+        color: white;
+        padding: 50px;
+        text-align: center;
+        border-radius: 15px;
+        margin-top: 50px;
+    }
+
+    .cta h2 {
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .btn-cta {
+        background-color: white;
+        color: #1e90ff;
+        border-radius: 25px;
+        padding: 12px 25px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+    .btn-cta:hover {
+        background-color: #4682b4;
+        color: #fff;
+    }
+</style>
+
+<div class="hero">
+    <h1>Chào mừng đến với trang quản lý sinh viên  🚀</h1>
+    <p>Quản lý thành viên một cách dễ dàng, trực quan và hiện đại</p>
+    <a asp-controller="nldtMember" asp-action="nldtListMembers" class="btn btn-hero">
+        Xem danh sách thành viên
+    </a>
+</div>
+
+<div class="container">
+    <!-- Features -->
+    <div class="features row text-center">
+        <div class="col-md-4 mb-4">
+            <div class="feature-card">
+                <i class="fas fa-users"></i>
+                <h5>Quản lý thành viên</h5>
+                <p>Dễ dàng thêm, sửa, xóa và theo dõi thông tin thành viên.</p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="feature-card">
+                <i class="fas fa-chart-line"></i>
+                <h5>Báo cáo trực quan</h5>
+                <p>Cung cấp thống kê và báo cáo chi tiết để quản lý hiệu quả.</p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="feature-card">
+                <i class="fas fa-lock"></i>
+                <h5>Bảo mật an toàn</h5>
+                <p>Ứng dụng bảo mật cao, đảm bảo dữ liệu của bạn luôn an toàn.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="cta">
+        <h2>Bắt đầu ngay hôm nay!</h2>
+        <p>Thêm thành viên mới để quản lý hiệu quả hơn.</p>
+        <a asp-controller="nldtMember" asp-action="Create" class="btn btn-cta">
+            <i class="fas fa-plus"></i> Thêm Thành Viên
+        </a>
+    </div>
 </div>

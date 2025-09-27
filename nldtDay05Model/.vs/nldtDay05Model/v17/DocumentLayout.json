@@ -1,42 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\",
+  "WorkspaceRootPath": "D:\\ASP.NET core\\nldtDay05Model\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\controllers\\nldtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\controllers\\nldtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtlistmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtlistmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\nldtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\models\\nldtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\models\\nldtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\nldtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|c:\\users\\lenovo\\source\\repos\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtlistmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtlistmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\controllers\\nldtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\controllers\\nldtmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\views\\nldtmember\\nldtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\views\\nldtmember\\nldtgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|d:\\asp.net core\\nldtday05model\\nldtday05model\\models\\nldtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A74BB7-FA5C-405D-90FE-536A3F07D639}|nldtDay05Model\\nldtDay05Model.csproj|solutionrelative:nldtday05model\\models\\nldtmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,80 +58,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "nldtDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
-              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
-              "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nldtDay05Model\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAI4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:45:59.006Z",
+              "WhenOpened": "2025-09-27T15:42:24.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "nldtEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
-              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
-              "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "nldtDay05Model\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T15:32:10.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nldtDelete.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
+              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
+              "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:45:59.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nldtEdit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
+              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
+              "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-24T09:45:23.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "nldtCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtCreate.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtCreate.cshtml",
               "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtCreate.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtCreate.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtCreate.cshtml",
               "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:42:44.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:42:44.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\Index.cshtml",
               "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\Index.cshtml",
               "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-24T09:40:42.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "nldtListMembers.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtListMembers.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtListMembers.cshtml",
               "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtListMembers.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtListMembers.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtListMembers.cshtml",
               "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtListMembers.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-24T09:33:36.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T08:38:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "nldtDay05Model\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T15:32:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "nldtMemberController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Controllers\\nldtMemberController.cs",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Controllers\\nldtMemberController.cs",
               "RelativeDocumentMoniker": "nldtDay05Model\\Controllers\\nldtMemberController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Controllers\\nldtMemberController.cs",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Controllers\\nldtMemberController.cs",
               "RelativeToolTip": "nldtDay05Model\\Controllers\\nldtMemberController.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowEkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -128,42 +190,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "nldtDay05Model\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T08:38:18.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "nldtGetMember.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtGetMember.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtGetMember.cshtml",
               "RelativeDocumentMoniker": "nldtDay05Model\\Views\\nldtMember\\nldtGetMember.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtGetMember.cshtml",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Views\\nldtMember\\nldtGetMember.cshtml",
               "RelativeToolTip": "nldtDay05Model\\Views\\nldtMember\\nldtGetMember.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T08:26:00.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:26:00.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "nldtMember.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Models\\nldtMember.cs",
+              "DocumentMoniker": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Models\\nldtMember.cs",
               "RelativeDocumentMoniker": "nldtDay05Model\\Models\\nldtMember.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\Models\\nldtMember.cs",
+              "ToolTip": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\Models\\nldtMember.cs",
               "RelativeToolTip": "nldtDay05Model\\Models\\nldtMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:57:23.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:57:23.781Z"
             }
           ]
         }

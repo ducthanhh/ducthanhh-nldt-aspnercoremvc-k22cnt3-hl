@@ -5571,11 +5571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\nldtDay05Model.csproj",
+      "projectUniqueName": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\nldtDay05Model.csproj",
       "projectName": "nldtDay05Model",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\nldtDay05Model.csproj",
+      "projectPath": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\nldtDay05Model.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\nldtDay05Model\\nldtDay05Model\\obj\\",
+      "outputPath": "D:\\ASP.NET core\\nldtDay05Model\\nldtDay05Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
